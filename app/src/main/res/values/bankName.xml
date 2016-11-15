@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bank_name">ExpenseTrack</string>
+
+    <string-array name="bank_name">
+        <item>Chase</item>
+        <item>Bank Of America</item>
+        <item>American Express</item>
+    </string-array>
+
+</resources>
